@@ -4,10 +4,10 @@ const tokens = {
     projectLink: 'https://www.binance.com/',
   },
   cake: {
-    symbol: 'CAKE',
+    symbol: 'libre',
     address: {
       56: '0x51bd7298d99178a30eeedc9c7d60ac6415685617',
-      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+      97: '0x51bd7298d99178a30eeedc9c7d60ac6415685617',
     },
     decimals: 18,
     projectLink: 'https://pancakeswap.finance/',
