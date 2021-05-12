@@ -3,8 +3,17 @@ const tokens = {
     symbol: 'BNB',
     projectLink: 'https://www.binance.com/',
   },
+  cake: {
+    symbol: 'CAKE',
+    address: {
+      56: '0x51bd7298d99178a30eeedc9c7d60ac6415685617',
+      97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
+    },
+    decimals: 18,
+    projectLink: 'https://pancakeswap.finance/',
+  },
   libre: {
-    symbol: 'libre',
+    symbol: 'LIBRE',
     address: {
       56: '0x51bd7298d99178a30eeedc9c7d60ac6415685617',
       97: '0x51bd7298d99178a30eeedc9c7d60ac6415685617',
