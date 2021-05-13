@@ -2017,9 +2017,9 @@
     eslint-plugin-react "^7.21.5"
     eslint-plugin-react-hooks "^4.0.0"
 
-"@tiscotservices/forkeduikitforlibreind@^0.30.22":
-  version "0.30.22"
-  resolved "https://registry.yarnpkg.com/@tiscotservices/forkeduikitforlibreind/-/forkeduikitforlibreind-0.30.22.tgz"
+"carpooluikit@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/carpooluikit/-/forkeduikitforlibreind-1.0.0.tgz"
   integrity sha512-AU5HrkofX+IWhfCjjxOK/JnPGXDmuG44oIkPb2YRRcEkX642qf4G6wpwO8UueHwoq+BgQqqkQmzNILIu+WqVOQ==
   dependencies:
     "@popperjs/core" "^2.9.2"

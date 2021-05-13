@@ -1,5 +1,5 @@
 import React from 'react'
-import { Card } from '@tiscotservices/forkeduikitforlibreind'
+import { Card } from 'carpooluikit'
 import { DataResponse } from 'utils/getLotteryRoundData'
 import PastRoundCardError from './PastRoundCardError'
 import PastRoundCardDetails from './PastRoundCardDetails'

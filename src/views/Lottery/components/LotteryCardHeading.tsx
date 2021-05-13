@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Flex, Heading, Text } from '@tiscotservices/forkeduikitforlibreind'
+import { Flex, Heading, Text } from 'carpooluikit'
 
 interface HeadingProps {
   valueToDisplay?: string

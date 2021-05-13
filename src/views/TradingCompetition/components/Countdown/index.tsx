@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Flex, Skeleton, PocketWatchIcon, Text } from '@tiscotservices/forkeduikitforlibreind'
+import { Flex, Skeleton, PocketWatchIcon, Text } from 'carpooluikit'
 import useI18n from 'hooks/useI18n'
 import Timer from 'components/Timer'
 import getTimePeriods from 'utils/getTimePeriods'

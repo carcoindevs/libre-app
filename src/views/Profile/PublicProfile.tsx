@@ -15,7 +15,7 @@ import {
   BlockIcon,
   VisibilityOn,
   VisibilityOff,
-} from '@tiscotservices/forkeduikitforlibreind'
+} from 'carpooluikit'
 import useI18n from 'hooks/useI18n'
 import { useProfile } from 'state/hooks'
 import usePersistState from 'hooks/usePersistState'

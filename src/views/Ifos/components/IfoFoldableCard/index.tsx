@@ -10,7 +10,7 @@ import {
   Progress,
   Button,
   ChevronUpIcon,
-} from '@tiscotservices/forkeduikitforlibreind'
+} from 'carpooluikit'
 import { Ifo, IfoStatus, PoolIds } from 'config/constants/types'
 import { PublicIfoData, WalletIfoData } from 'hooks/ifo/types'
 import useI18n from 'hooks/useI18n'

@@ -1,5 +1,5 @@
 import React from 'react'
-import { Tag, VerifiedIcon, CommunityIcon, BinanceIcon } from '@tiscotservices/forkeduikitforlibreind'
+import { Tag, VerifiedIcon, CommunityIcon, BinanceIcon } from 'carpooluikit'
 
 const CoreTag = (props) => (
   <Tag variant="secondary" outline startIcon={<VerifiedIcon color="secondary" />} {...props}>

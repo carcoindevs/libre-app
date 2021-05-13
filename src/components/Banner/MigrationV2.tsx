@@ -1,5 +1,5 @@
 import React from 'react'
-import { Text, Flex, Box, ErrorIcon, Button } from '@tiscotservices/forkeduikitforlibreind'
+import { Text, Flex, Box, ErrorIcon, Button } from 'carpooluikit'
 import Banner from './Banner'
 
 const MigrationV2 = () => {

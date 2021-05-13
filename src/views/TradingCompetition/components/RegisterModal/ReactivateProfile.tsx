@@ -1,5 +1,5 @@
 import React from 'react'
-import { Heading, Button, Text } from '@tiscotservices/forkeduikitforlibreind'
+import { Heading, Button, Text } from 'carpooluikit'
 import history from 'routerHistory'
 import useI18n from 'hooks/useI18n'
 import { CompetitionProps } from 'views/TradingCompetition/types'

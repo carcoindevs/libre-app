@@ -1,4 +1,4 @@
-import { MenuEntry } from '@tiscotservices/forkeduikitforlibreind'
+import { MenuEntry } from 'carpooluikit'
 
 const config: MenuEntry[] = [
   {

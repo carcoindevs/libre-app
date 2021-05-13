@@ -1,5 +1,5 @@
 import React from 'react'
-import { Progress, ProgressProps } from '@tiscotservices/forkeduikitforlibreind'
+import { Progress, ProgressProps } from 'carpooluikit'
 import { useBlock } from 'state/hooks'
 
 interface BlockProgressProps extends ProgressProps {

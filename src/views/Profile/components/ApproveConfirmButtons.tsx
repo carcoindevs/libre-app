@@ -7,7 +7,7 @@ import {
   ChevronDownIcon,
   Box,
   Flex,
-} from '@tiscotservices/forkeduikitforlibreind'
+} from 'carpooluikit'
 import useI18n from 'hooks/useI18n'
 
 interface ApproveConfirmButtonsProps {

@@ -1,7 +1,7 @@
 import React from 'react'
 import useI18n from 'hooks/useI18n'
 import styled from 'styled-components'
-import { Text, Flex, LinkExternal } from '@tiscotservices/forkeduikitforlibreind'
+import { Text, Flex, LinkExternal } from 'carpooluikit'
 
 export interface ExpandableSectionProps {
   bscScanAddress?: string

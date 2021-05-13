@@ -1,6 +1,6 @@
 import React, { lazy, Suspense, useContext, useMemo } from 'react'
 import styled from 'styled-components'
-import { Text } from '@tiscotservices/forkeduikitforlibreind'
+import { Text } from 'carpooluikit'
 import PastLotteryDataContext from 'contexts/PastLotteryDataContext'
 import useI18n from 'hooks/useI18n'
 import useTheme from 'hooks/useTheme'

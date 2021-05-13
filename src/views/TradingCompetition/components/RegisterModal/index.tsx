@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Modal, Button, NoProfileAvatarIcon, Flex } from '@tiscotservices/forkeduikitforlibreind'
+import { Modal, Button, NoProfileAvatarIcon, Flex } from 'carpooluikit'
 import useI18n from 'hooks/useI18n'
 import { CompetitionProps } from '../../types'
 import MakeProfile from './MakeProfile'

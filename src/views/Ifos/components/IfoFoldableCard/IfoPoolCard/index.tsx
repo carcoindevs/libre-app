@@ -1,5 +1,5 @@
 import React from 'react'
-import { Card, CardBody, CardHeader, Text, useTooltip, HelpIcon, Flex } from '@tiscotservices/forkeduikitforlibreind'
+import { Card, CardBody, CardHeader, Text, useTooltip, HelpIcon, Flex } from 'carpooluikit'
 import { Ifo, PoolIds } from 'config/constants/types'
 import { useProfile } from 'state/hooks'
 import { PublicIfoData, WalletIfoData } from 'hooks/ifo/types'

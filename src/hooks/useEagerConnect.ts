@@ -1,5 +1,5 @@
 import { useEffect } from 'react'
-import { connectorLocalStorageKey, ConnectorNames } from '@tiscotservices/forkeduikitforlibreind'
+import { connectorLocalStorageKey, ConnectorNames } from 'carpooluikit'
 import useAuth from 'hooks/useAuth'
 
 const _binanceChainListener = async () =>
