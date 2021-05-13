@@ -1,5 +1,5 @@
 import React from 'react'
-import { Text } from 'carpooluikit'
+import { Text } from '@tiscotservices/carpooluikit'
 
 interface PastRoundCardErrorProps {
   error: {

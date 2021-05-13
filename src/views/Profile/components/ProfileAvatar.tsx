@@ -1,5 +1,5 @@
 import React from 'react'
-import { NoProfileAvatarIcon } from 'carpooluikit'
+import { NoProfileAvatarIcon } from '@tiscotservices/carpooluikit'
 import { Profile } from 'state/types'
 import styled from 'styled-components'
 

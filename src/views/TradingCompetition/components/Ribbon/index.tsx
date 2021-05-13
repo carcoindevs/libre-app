@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Flex, LaurelLeftIcon, LaurelRightIcon } from 'carpooluikit'
+import { Flex, LaurelLeftIcon, LaurelRightIcon } from '@tiscotservices/carpooluikit'
 import { RibbonProps } from '../../types'
 import {
   RibbonDownMidExpanding,

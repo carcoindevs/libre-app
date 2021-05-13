@@ -1,4 +1,4 @@
-import { Heading } from 'carpooluikit'
+import { Heading } from '@tiscotservices/carpooluikit'
 import styled, { DefaultTheme } from 'styled-components'
 
 const H1SizeStyles = (theme: DefaultTheme) => `

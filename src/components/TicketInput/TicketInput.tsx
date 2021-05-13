@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Button, Flex, Input, InputProps } from 'carpooluikit'
+import { Button, Flex, Input, InputProps } from '@tiscotservices/carpooluikit'
 import useI18n from 'hooks/useI18n'
 
 interface TokenInputProps extends InputProps {

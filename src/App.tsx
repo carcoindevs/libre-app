@@ -1,6 +1,6 @@
 import React, { useEffect, lazy } from 'react'
 import { Router, Redirect, Route, Switch } from 'react-router-dom'
-import { ResetCSS } from 'carpooluikit'
+import { ResetCSS } from '@tiscotservices/carpooluikit'
 import BigNumber from 'bignumber.js'
 import useEagerConnect from 'hooks/useEagerConnect'
 import { useFetchPriceList, useFetchProfile, useFetchPublicData } from 'state/hooks'

@@ -1,5 +1,5 @@
 import React, { useRef, useState, useEffect } from 'react'
-import { Modal, Flex, Button, Text, Skeleton, Box } from 'carpooluikit'
+import { Modal, Flex, Button, Text, Skeleton, Box } from '@tiscotservices/carpooluikit'
 import styled from 'styled-components'
 import useI18n from 'hooks/useI18n'
 import FlippersShare from '../pngs/flippers-share.png'

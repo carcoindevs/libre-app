@@ -1,5 +1,5 @@
 import React, { useState, useMemo } from 'react'
-import { Input } from 'carpooluikit'
+import { Input } from '@tiscotservices/carpooluikit'
 import styled from 'styled-components'
 import debounce from 'lodash/debounce'
 

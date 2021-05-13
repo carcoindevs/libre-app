@@ -1,5 +1,5 @@
 import styled, { DefaultTheme } from 'styled-components'
-import { CardHeader as UIKitCardHeader } from 'carpooluikit'
+import { CardHeader as UIKitCardHeader } from '@tiscotservices/carpooluikit'
 
 const getBackground = (theme: DefaultTheme) => {
   if (theme.isDark) {

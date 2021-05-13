@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Flex, Heading, Text, Link, useTooltip } from 'carpooluikit'
+import { Flex, Heading, Text, Link, useTooltip } from '@tiscotservices/carpooluikit'
 
 export interface TimerProps {
   timerStage?: string

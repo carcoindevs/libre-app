@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Flex, Text, Heading, Image } from 'carpooluikit'
+import { Flex, Text, Heading, Image } from '@tiscotservices/carpooluikit'
 import useI18n from 'hooks/useI18n'
 import FlipperBunny from '../../pngs/flippers.png'
 

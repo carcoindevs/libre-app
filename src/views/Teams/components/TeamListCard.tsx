@@ -1,7 +1,7 @@
 import React from 'react'
 import styled, { DefaultTheme } from 'styled-components'
 import { Link } from 'react-router-dom'
-import { Button, Card, CommunityIcon, Flex, Heading, PrizeIcon, Text } from 'carpooluikit'
+import { Button, Card, CommunityIcon, Flex, Heading, PrizeIcon, Text } from '@tiscotservices/carpooluikit'
 import useI18n from 'hooks/useI18n'
 import { Team } from 'config/constants/types'
 

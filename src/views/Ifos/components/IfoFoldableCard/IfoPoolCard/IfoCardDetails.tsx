@@ -1,5 +1,5 @@
 import React from 'react'
-import { Text, Flex, Box } from 'carpooluikit'
+import { Text, Flex, Box } from '@tiscotservices/carpooluikit'
 import { PublicIfoData } from 'hooks/ifo/types'
 import useI18n from 'hooks/useI18n'
 import { Ifo, PoolIds } from 'config/constants/types'

@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { ChevronDownIcon, useMatchBreakpoints } from 'carpooluikit'
+import { ChevronDownIcon, useMatchBreakpoints } from '@tiscotservices/carpooluikit'
 import useI18n from 'hooks/useI18n'
 
 interface DetailsProps {

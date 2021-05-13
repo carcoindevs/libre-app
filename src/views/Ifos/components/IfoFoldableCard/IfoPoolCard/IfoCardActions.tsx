@@ -1,5 +1,5 @@
 import React from 'react'
-import { Button } from 'carpooluikit'
+import { Button } from '@tiscotservices/carpooluikit'
 import { useWeb3React } from '@web3-react/core'
 import { Link } from 'react-router-dom'
 import { Ifo, PoolIds } from 'config/constants/types'

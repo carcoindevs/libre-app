@@ -1,5 +1,5 @@
 import React from 'react'
-import { Box, ExpandableLabel, Flex } from 'carpooluikit'
+import { Box, ExpandableLabel, Flex } from '@tiscotservices/carpooluikit'
 import styled from 'styled-components'
 import usePersistState from 'hooks/usePersistState'
 

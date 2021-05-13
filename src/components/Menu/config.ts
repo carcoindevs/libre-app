@@ -1,4 +1,4 @@
-import { MenuEntry } from 'carpooluikit'
+import { MenuEntry } from '@tiscotservices/carpooluikit'
 
 const config: MenuEntry[] = [
   {

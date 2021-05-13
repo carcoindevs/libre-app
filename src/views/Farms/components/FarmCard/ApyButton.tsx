@@ -1,6 +1,6 @@
 import React from 'react'
 import BigNumber from 'bignumber.js'
-import { IconButton, useModal, CalculateIcon } from 'carpooluikit'
+import { IconButton, useModal, CalculateIcon } from '@tiscotservices/carpooluikit'
 import ApyCalculatorModal from 'components/ApyCalculatorModal'
 import useI18n from 'hooks/useI18n'
 

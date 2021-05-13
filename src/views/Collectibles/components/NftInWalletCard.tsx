@@ -1,5 +1,5 @@
 import React from 'react'
-import { Card, CardBody, Heading, Text } from 'carpooluikit'
+import { Card, CardBody, Heading, Text } from '@tiscotservices/carpooluikit'
 import useI18n from 'hooks/useI18n'
 import CardContent from './CardContent'
 

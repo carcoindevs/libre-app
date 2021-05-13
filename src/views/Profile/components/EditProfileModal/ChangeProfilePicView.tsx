@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { Button, InjectedModalProps, Skeleton, Text } from 'carpooluikit'
+import { Button, InjectedModalProps, Skeleton, Text } from '@tiscotservices/carpooluikit'
 import { useWeb3React } from '@web3-react/core'
 import { useAppDispatch } from 'state'
 import { useGetCollectibles, useProfile, useToast } from 'state/hooks'

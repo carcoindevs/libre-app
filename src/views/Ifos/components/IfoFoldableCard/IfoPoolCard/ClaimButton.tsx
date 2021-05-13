@@ -1,6 +1,6 @@
 import React from 'react'
 import { useWeb3React } from '@web3-react/core'
-import { AutoRenewIcon, Button } from 'carpooluikit'
+import { AutoRenewIcon, Button } from '@tiscotservices/carpooluikit'
 import { PoolIds } from 'config/constants/types'
 import { WalletIfoData } from 'hooks/ifo/types'
 import { useToast } from 'state/hooks'

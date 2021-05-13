@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Button, LinkExternal, useModal } from 'carpooluikit'
+import { Button, LinkExternal, useModal } from '@tiscotservices/carpooluikit'
 import useI18n from 'hooks/useI18n'
 import { useWeb3React } from '@web3-react/core'
 import useTickets from 'hooks/useTickets'

@@ -1,5 +1,5 @@
 import React from 'react'
-import { Text, Flex, Box, ErrorIcon, Button } from 'carpooluikit'
+import { Text, Flex, Box, ErrorIcon, Button } from '@tiscotservices/carpooluikit'
 import Banner from './Banner'
 
 const MigrationV2 = () => {

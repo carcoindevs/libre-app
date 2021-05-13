@@ -15,7 +15,7 @@ import {
   useModal,
   Skeleton,
   Checkbox,
-} from 'carpooluikit'
+} from '@tiscotservices/carpooluikit'
 import { parseISO, formatDistance } from 'date-fns'
 import { useWeb3React } from '@web3-react/core'
 import { useToast } from 'state/hooks'

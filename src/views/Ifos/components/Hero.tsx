@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Box, Heading, Text } from 'carpooluikit'
+import { Box, Heading, Text } from '@tiscotservices/carpooluikit'
 import Container from 'components/layout/Container'
 import useI18n from 'hooks/useI18n'
 

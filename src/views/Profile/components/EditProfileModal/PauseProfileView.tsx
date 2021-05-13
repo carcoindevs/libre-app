@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { AutoRenewIcon, Button, Checkbox, Flex, InjectedModalProps, Text } from 'carpooluikit'
+import { AutoRenewIcon, Button, Checkbox, Flex, InjectedModalProps, Text } from '@tiscotservices/carpooluikit'
 import useI18n from 'hooks/useI18n'
 import useGetProfileCosts from 'hooks/useGetProfileCosts'
 import { useAppDispatch } from 'state'

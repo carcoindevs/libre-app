@@ -1,5 +1,5 @@
 import React from 'react'
-import { InjectedModalProps, Modal } from 'carpooluikit'
+import { InjectedModalProps, Modal } from '@tiscotservices/carpooluikit'
 import useI18n from 'hooks/useI18n'
 import useEditProfile, { Views } from './reducer'
 import StartView from './StartView'

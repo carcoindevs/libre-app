@@ -1,6 +1,6 @@
 import React from 'react'
 import { useSelector } from 'react-redux'
-import { ToastContainer, Toast } from 'carpooluikit'
+import { ToastContainer, Toast } from '@tiscotservices/carpooluikit'
 import { useToast } from 'state/hooks'
 import { State } from 'state/types'
 

@@ -12,7 +12,7 @@ import {
   BlockIcon,
   Button,
   useModal,
-} from 'carpooluikit'
+} from '@tiscotservices/carpooluikit'
 import styled from 'styled-components'
 import useI18n from 'hooks/useI18n'
 import { LIVE } from 'config/constants/trading-competition/easterPhases'

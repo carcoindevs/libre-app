@@ -1,5 +1,5 @@
 import React from 'react'
-import { BunnyPlaceholderIcon, Flex, Heading } from 'carpooluikit'
+import { BunnyPlaceholderIcon, Flex, Heading } from '@tiscotservices/carpooluikit'
 import useI18n from 'hooks/useI18n'
 
 interface ComingSoonProps {

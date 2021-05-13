@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import styled from 'styled-components'
-import { Text, Input, Button } from 'carpooluikit'
+import { Text, Input, Button } from '@tiscotservices/carpooluikit'
 import useI18n from 'hooks/useI18n'
 
 interface PastLotterySearcherProps {

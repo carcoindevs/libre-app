@@ -1,5 +1,5 @@
 import React, { ElementType, ReactNode } from 'react'
-import { Flex, Heading, Text, TextProps } from 'carpooluikit'
+import { Flex, Heading, Text, TextProps } from '@tiscotservices/carpooluikit'
 import SecondaryCard from './SecondaryCard'
 
 interface StatBoxProps extends TextProps {

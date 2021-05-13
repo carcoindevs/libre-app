@@ -1,6 +1,6 @@
 import React, { ReactElement } from 'react'
 import styled from 'styled-components'
-import { Flex, Text, FlexProps, ArrowForwardIcon } from 'carpooluikit'
+import { Flex, Text, FlexProps, ArrowForwardIcon } from '@tiscotservices/carpooluikit'
 
 interface NextRankProps extends FlexProps {
   title?: string

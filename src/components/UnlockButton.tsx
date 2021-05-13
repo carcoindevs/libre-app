@@ -1,5 +1,5 @@
 import React from 'react'
-import { Button, useWalletModal } from 'carpooluikit'
+import { Button, useWalletModal } from '@tiscotservices/carpooluikit'
 import useAuth from 'hooks/useAuth'
 import useI18n from 'hooks/useI18n'
 

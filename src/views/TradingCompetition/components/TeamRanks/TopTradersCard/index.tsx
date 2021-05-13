@@ -10,7 +10,7 @@ import {
   Box,
   Flex,
   ExpandableLabel,
-} from 'carpooluikit'
+} from '@tiscotservices/carpooluikit'
 import useI18n from 'hooks/useI18n'
 import { TeamRanksProps } from '../../../types'
 import TopTradersGrid from './TopTradersGrid'

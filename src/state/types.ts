@@ -1,4 +1,4 @@
-import { Toast } from 'carpooluikit'
+import { Toast } from '@tiscotservices/carpooluikit'
 import BigNumber from 'bignumber.js'
 import { CampaignType, FarmConfig, Nft, PoolConfig, Team } from 'config/constants/types'
 

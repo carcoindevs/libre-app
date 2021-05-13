@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Heading, Card, CardBody } from 'carpooluikit'
+import { Heading, Card, CardBody } from '@tiscotservices/carpooluikit'
 
 interface HowToCardProps {
   number?: number

@@ -1,5 +1,5 @@
 import React from 'react'
-import { Flex, Text } from 'carpooluikit'
+import { Flex, Text } from '@tiscotservices/carpooluikit'
 import styled from 'styled-components'
 import useI18n from 'hooks/useI18n'
 import RulesCard from './RulesCard'

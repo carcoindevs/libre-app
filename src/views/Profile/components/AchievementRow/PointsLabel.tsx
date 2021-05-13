@@ -1,5 +1,5 @@
 import React from 'react'
-import { Flex, FlexProps, PrizeIcon, Text } from 'carpooluikit'
+import { Flex, FlexProps, PrizeIcon, Text } from '@tiscotservices/carpooluikit'
 import useI18n from 'hooks/useI18n'
 
 interface PointsLabelProps extends FlexProps {

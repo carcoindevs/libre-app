@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { NoProfileAvatarIcon, LaurelLeftIcon, LaurelRightIcon, Skeleton } from 'carpooluikit'
+import { NoProfileAvatarIcon, LaurelLeftIcon, LaurelRightIcon, Skeleton } from '@tiscotservices/carpooluikit'
 import { YourScoreProps } from '../../types'
 import ProfileAvatar from '../../../Profile/components/ProfileAvatar'
 import Sticker from '../Sticker'

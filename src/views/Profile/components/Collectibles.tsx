@@ -1,5 +1,5 @@
 import React from 'react'
-import { Heading, Text, Flex, ChevronRightIcon } from 'carpooluikit'
+import { Heading, Text, Flex, ChevronRightIcon } from '@tiscotservices/carpooluikit'
 import { Link } from 'react-router-dom'
 import useI18n from 'hooks/useI18n'
 import { useGetCollectibles } from 'state/hooks'

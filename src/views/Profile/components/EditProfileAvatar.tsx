@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { useModal } from 'carpooluikit'
+import { useModal } from '@tiscotservices/carpooluikit'
 import EditProfileModal from './EditProfileModal'
 import ProfileAvatar, { ProfileAvatarProps } from './ProfileAvatar'
 

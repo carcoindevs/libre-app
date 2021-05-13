@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Flex } from 'carpooluikit'
+import { Flex } from '@tiscotservices/carpooluikit'
 import Container from 'components/layout/Container'
 import { SectionProps } from '../../types'
 import IntersectionCurve from './IntersectionCurve'

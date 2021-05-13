@@ -1,5 +1,5 @@
 import React, { useCallback } from 'react'
-import { Button, Modal } from 'carpooluikit'
+import { Button, Modal } from '@tiscotservices/carpooluikit'
 import styled from 'styled-components'
 import { useWinningNumbers } from 'hooks/useTickets'
 import useI18n from 'hooks/useI18n'

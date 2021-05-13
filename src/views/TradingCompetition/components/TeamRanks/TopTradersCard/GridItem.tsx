@@ -1,5 +1,5 @@
 import React from 'react'
-import { Heading, Text, Flex } from 'carpooluikit'
+import { Heading, Text, Flex } from '@tiscotservices/carpooluikit'
 import styled from 'styled-components'
 import { LeaderboardDataItem } from '../../../types'
 import { localiseTradingVolume, accountEllipsis } from '../../../helpers'
