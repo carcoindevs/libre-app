@@ -2020,7 +2020,7 @@
 "@tiscotservices/carpooluikit@^1.0.0":
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@tiscotservices/carpooluikit/-/carpooluikit-1.0.0.tgz"
-  integrity sha512-AU5HrkofX+IWhfCjjxOK/JnPGXDmuG44oIkPb2YRRcEkX642qf4G6wpwO8UueHwoq+BgQqqkQmzNILIu+WqVOQ==
+  integrity sha512-YyqJ3RoKFXRdZEgdKQ1FL28D2hE2bTBw8/Ed5HWKd0B0SCc6YA6piw4lVBFjkprUquTNCMJ/Acr6vCZctVgswA==
   dependencies:
     "@popperjs/core" "^2.9.2"
     "@types/lodash" "^4.14.168"
