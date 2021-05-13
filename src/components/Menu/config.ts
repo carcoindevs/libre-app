@@ -17,7 +17,7 @@ const config: MenuEntry[] = [
 
       {
         label: 'Exchange',
-        href: 'https://exchange.pancakeswap.finance/#/swap',
+        href: 'https://app.1inch.io/#/56/swap/BNB/LIBRE',
       },
       {
         label: 'Liquidity',
