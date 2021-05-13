@@ -23,7 +23,7 @@ const sharedStyles = (props: HeadingProps) => `
   text-align: center;
   line-height: 110%;
   color: #ffffff;
-  background:  ${props.background ? props.background : 'linear-gradient(#333FFF 0%, #452a7a 100%)'};
+  background:  ${props.background ? props.background : 'linear-gradient(#AD974F 0%, #452a7a 100%)'};
   background-clip: text;
   -webkit-background-clip: text;
   ${
