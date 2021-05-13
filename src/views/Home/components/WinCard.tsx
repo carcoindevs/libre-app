@@ -26,7 +26,7 @@ const WinCard = () => {
         <Heading color="contrast" size="lg">
           Lottery with
         </Heading>
-        <CardMidContent color="#333FFF">
+        <CardMidContent color="#D8D091">
           {lotteryPrize !== 0 ? (
             `$${lotteryPrize.toLocaleString()}`
           ) : (
