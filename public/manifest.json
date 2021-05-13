@@ -1,7 +1,7 @@
 {
-  "short_name": "LibreSwap",
-  "name": "LibreSwap",
-  "description": "Farm LIBRE with LibreSwap LP Tokens",
+  "short_name": "CarPool",
+  "name": "CarPool",
+  "description": "Farm CAR with CarPool LP Tokens",
   "icons": [
     {
       "src": "favicon.ico",
