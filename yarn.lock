@@ -2017,7 +2017,7 @@
     eslint-plugin-react "^7.21.5"
     eslint-plugin-react-hooks "^4.0.0"
 
-"@tiscotservices/carpooluikit@^1.0.2":
+"@tiscotservices/carpooluikit@1.0.2":
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/@tiscotservices/carpooluikit/-/carpooluikit-1.0.2.tgz"
   integrity sha512-5kj1DNW0aJhzXPEOnPuLYKEaNt/1GbopY6hfTNQzbsW/rYCASkA9UX3JyppfZqje5ycFsOggfy6wesKKPNAyzg==
