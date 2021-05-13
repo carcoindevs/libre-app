@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Text, Heading, Card, CardHeader, CardBody, Flex } from '@tiscotservices/forkeduikitforlibreind'
+import { Text, Heading, Card, CardHeader, CardBody, Flex } from 'carpooluikit'
 import useI18n from 'hooks/useI18n'
 import FoldableText from 'components/FoldableText'
 import config from './config'

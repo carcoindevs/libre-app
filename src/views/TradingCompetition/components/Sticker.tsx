@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Flex } from '@tiscotservices/forkeduikitforlibreind'
+import { Flex } from 'carpooluikit'
 
 interface StickerProps {
   backgroundColor?: string

@@ -1,5 +1,5 @@
 import { useEffect } from 'react'
-import { useParticleBurst } from '@tiscotservices/forkeduikitforlibreind'
+import { useParticleBurst } from 'carpooluikit'
 import { useLocation } from 'react-router-dom'
 
 const disableWhenNotChristmas = () => {

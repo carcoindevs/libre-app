@@ -1,5 +1,5 @@
 import React from 'react'
-import { Svg, SvgProps } from '@tiscotservices/forkeduikitforlibreind'
+import { Svg, SvgProps } from 'carpooluikit'
 
 const RibbonDownMid: React.FC<SvgProps> = (props) => {
   return (

@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import BigNumber from 'bignumber.js'
-import { Flex, LinkExternal, Image, Text, PrizeIcon } from '@tiscotservices/forkeduikitforlibreind'
+import { Flex, LinkExternal, Image, Text, PrizeIcon } from 'carpooluikit'
 import useI18n from 'hooks/useI18n'
 import { PublicIfoData } from 'hooks/ifo/types'
 import { Ifo } from 'config/constants/types'

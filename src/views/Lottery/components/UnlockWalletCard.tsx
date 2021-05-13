@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Heading, Card, CardBody, Ticket } from '@tiscotservices/forkeduikitforlibreind'
+import { Heading, Card, CardBody, Ticket } from 'carpooluikit'
 import useI18n from 'hooks/useI18n'
 import UnlockButton from 'components/UnlockButton'
 

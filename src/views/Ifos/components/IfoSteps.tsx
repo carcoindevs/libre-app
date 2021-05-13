@@ -12,7 +12,7 @@ import {
   Button,
   Link,
   OpenNewIcon,
-} from '@tiscotservices/forkeduikitforlibreind'
+} from 'carpooluikit'
 import { BASE_ADD_LIQUIDITY_URL } from 'config'
 import useI18n from 'hooks/useI18n'
 import useTokenBalance from 'hooks/useTokenBalance'

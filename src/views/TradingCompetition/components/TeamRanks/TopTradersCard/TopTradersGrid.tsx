@@ -1,5 +1,5 @@
 import React from 'react'
-import { Box, Skeleton } from '@tiscotservices/forkeduikitforlibreind'
+import { Box, Skeleton } from 'carpooluikit'
 import styled from 'styled-components'
 import { LeaderboardDataItem } from '../../../types'
 import GridItem from './GridItem'

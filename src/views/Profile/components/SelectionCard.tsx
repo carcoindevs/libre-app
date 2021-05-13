@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Card, Radio } from '@tiscotservices/forkeduikitforlibreind'
+import { Card, Radio } from 'carpooluikit'
 
 interface SelectionCardProps {
   name: string

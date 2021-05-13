@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Text, Heading, Link, Image } from '@tiscotservices/forkeduikitforlibreind'
+import { Text, Heading, Link, Image } from 'carpooluikit'
 import useI18n from 'hooks/useI18n'
 
 const LayoutWrapper = styled.div`

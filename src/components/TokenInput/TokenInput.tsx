@@ -1,5 +1,5 @@
 import React from 'react'
-import { Box, Button, Flex, Text, Input, InputProps } from '@tiscotservices/forkeduikitforlibreind'
+import { Box, Button, Flex, Text, Input, InputProps } from 'carpooluikit'
 import useI18n from 'hooks/useI18n'
 
 interface TokenInputProps extends InputProps {

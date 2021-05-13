@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { HelpIcon, Text, useTooltip } from '@tiscotservices/forkeduikitforlibreind'
+import { HelpIcon, Text, useTooltip } from 'carpooluikit'
 import useI18n from 'hooks/useI18n'
 import BigNumber from 'bignumber.js'
 

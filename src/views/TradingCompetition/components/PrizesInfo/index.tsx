@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Flex } from '@tiscotservices/forkeduikitforlibreind'
+import { Flex } from 'carpooluikit'
 import PrizesText from './PrizesText'
 import PrizesCard from './PrizesCard'
 

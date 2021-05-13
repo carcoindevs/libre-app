@@ -8,7 +8,7 @@ import {
   Text,
   TeamPlayerIcon,
   TrophyGoldIcon,
-} from '@tiscotservices/forkeduikitforlibreind'
+} from 'carpooluikit'
 import useI18n from 'hooks/useI18n'
 import { UserTradingInformationProps } from '../../types'
 import { useCompetitionCakeRewards, getRewardGroupAchievements } from '../../helpers'

@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Card, CardHeader, Box, Heading, Text } from '@tiscotservices/forkeduikitforlibreind'
+import { Card, CardHeader, Box, Heading, Text } from 'carpooluikit'
 import useI18n from 'hooks/useI18n'
 import PrizesGrid from './PrizesGrid'
 

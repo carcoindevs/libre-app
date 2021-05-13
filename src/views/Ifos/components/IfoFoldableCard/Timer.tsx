@@ -1,5 +1,5 @@
 import React from 'react'
-import { Flex, Link, PocketWatchIcon, Text, Skeleton } from '@tiscotservices/forkeduikitforlibreind'
+import { Flex, Link, PocketWatchIcon, Text, Skeleton } from 'carpooluikit'
 import getTimePeriods from 'utils/getTimePeriods'
 import { PublicIfoData } from 'hooks/ifo/types'
 

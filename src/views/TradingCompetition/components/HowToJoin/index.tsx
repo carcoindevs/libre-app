@@ -1,5 +1,5 @@
 import React from 'react'
-import { Flex, Text, Heading, Link } from '@tiscotservices/forkeduikitforlibreind'
+import { Flex, Text, Heading, Link } from 'carpooluikit'
 import styled from 'styled-components'
 import useI18n from 'hooks/useI18n'
 import HowToCard from './HowToCard'

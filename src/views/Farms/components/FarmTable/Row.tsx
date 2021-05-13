@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import styled from 'styled-components'
 import { FarmWithStakedValue } from 'views/Farms/components/FarmCard/FarmCard'
-import { useMatchBreakpoints } from '@tiscotservices/forkeduikitforlibreind'
+import { useMatchBreakpoints } from 'carpooluikit'
 import useI18n from 'hooks/useI18n'
 
 import Apr, { AprProps } from './Apr'

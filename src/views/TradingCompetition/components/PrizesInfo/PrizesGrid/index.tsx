@@ -15,7 +15,7 @@ import {
   Text,
   TeamPlayerIcon,
   TrophyGoldIcon,
-} from '@tiscotservices/forkeduikitforlibreind'
+} from 'carpooluikit'
 import useI18n from 'hooks/useI18n'
 import easterPrizes, { Tiers, Rank } from 'config/constants/trading-competition/easter'
 import { Td, BoldTd, StyledPrizeTable } from '../../StyledPrizeTable'

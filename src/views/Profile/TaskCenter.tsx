@@ -1,5 +1,5 @@
 import React from 'react'
-import { Card, CardBody, CardHeader, Flex, Heading, Text } from '@tiscotservices/forkeduikitforlibreind'
+import { Card, CardBody, CardHeader, Flex, Heading, Text } from 'carpooluikit'
 import useI18n from 'hooks/useI18n'
 import AchievementsList from './components/AchievementsList'
 import ClaimPointsCallout from './components/ClaimPointsCallout '

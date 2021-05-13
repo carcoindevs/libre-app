@@ -1,4 +1,4 @@
-import { Heading } from '@tiscotservices/forkeduikitforlibreind'
+import { Heading } from 'carpooluikit'
 import styled, { DefaultTheme } from 'styled-components'
 
 const H1SizeStyles = (theme: DefaultTheme) => `

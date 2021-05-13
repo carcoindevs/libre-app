@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Box } from '@tiscotservices/forkeduikitforlibreind'
+import { Box } from 'carpooluikit'
 import Container from '../layout/Container'
 
 const Outer = styled(Box)<{ background?: string }>`
