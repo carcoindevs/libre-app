@@ -85,7 +85,7 @@ const Home: React.FC = () => {
         <Heading as="h1" size="xl" mb="24px" color="secondary">
           {TranslateString(576, 'CarPool Finance')}
         </Heading>
-        <Text>{TranslateString(578, 'The future of democratised finance.')}</Text>
+        <Text>{TranslateString(578, 'The future of Automotive Purchasing, Advertising and Defi.')}</Text>
       </Hero>
       <div>
         <Cards>
