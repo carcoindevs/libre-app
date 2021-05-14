@@ -10,20 +10,20 @@ const MigrationV2 = () => {
         <Flex alignItems="center">
           <ErrorIcon color="white" width="32px" mr="16px" />
           <Text color="white" fontSize="24px" bold>
-            Message from LibreSwap devs...
+            Message from CarPool devs...
           </Text>
         </Flex>
       }
     >
       <Box ml="48px">
         <Text color="warning" bold>
-          LibreSwap is still under construction and liquidity pools are not yet migrated.
+          CarPool Finance by CarCoin CCM.
         </Text>
         <Text color="white" mb="16px">
-          All LPs will be migrated to LibreSwap over the next several hours starting from now.
+          Stake your CCM, CPL, and more
         </Text>
-        <Button as="a" href="https://v1exchange.pancakeswap.finance/#/migrate">
-          Migrate Now
+        <Button as="a" href="https://carcoinmarket.io/">
+          Learn more
         </Button>
       </Box>
     </Banner>
