@@ -55,10 +55,7 @@ const config: MenuEntry[] = [
         label: 'Blog',
         href: 'https://carcoinmarket.io/#about',
       },
-      {
-        label: 'Merch',
-        href: 'https://pancakeswap.creator-spring.com/',
-      },
+      
     ],
   },
 ]
