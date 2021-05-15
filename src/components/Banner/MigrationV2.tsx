@@ -20,7 +20,7 @@ const MigrationV2 = () => {
           CarPool Finance by CarCoin CCM.
         </Text>
         <Text color="white" mb="16px">
-          Stake your CCM, CPL, and more
+          Stake your CPL and earn CPL
         </Text>
         <Button as="a" href="https://carcoinmarket.io/">
           Learn more
