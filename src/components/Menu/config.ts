@@ -37,11 +37,6 @@ const config: MenuEntry[] = [
     icon: 'FarmIcon',
     href: '/farms',
   },
-  {
-    label: 'Lottery',
-    icon: 'TicketIcon',
-    href: '/lottery',
-  },
 
   {
     label: 'More',
@@ -49,23 +44,16 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Contact',
-        href: 'https://docs.pancakeswap.finance/contact-us',
-      },
-      {
-        label: 'Voting',
-        href: 'https://voting.pancakeswap.finance',
+        href: 'https://carcoinmarket.io/#contact',
       },
       {
         label: 'Github',
         href: 'https://github.com/TiscotSerVices',
       },
-      {
-        label: 'Docs',
-        href: 'https://docs.pancakeswap.finance',
-      },
+
       {
         label: 'Blog',
-        href: 'https://pancakeswap.medium.com',
+        href: 'https://carcoinmarket.io/#about',
       },
       {
         label: 'Merch',
