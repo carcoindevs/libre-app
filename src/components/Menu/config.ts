@@ -32,11 +32,6 @@ const config: MenuEntry[] = [
     icon: 'PoolIcon',
     href: '/pools',
   },
-  {
-    label: 'Farms',
-    icon: 'FarmIcon',
-    href: '/farms',
-  },
 
   {
     label: 'More',
@@ -55,7 +50,7 @@ const config: MenuEntry[] = [
         label: 'Blog',
         href: 'https://carcoinmarket.io/#about',
       },
-      
+
     ],
   },
 ]
