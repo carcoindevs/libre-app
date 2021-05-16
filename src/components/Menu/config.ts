@@ -43,7 +43,7 @@ const config: MenuEntry[] = [
       },
       {
         label: 'Github',
-        href: 'https://github.com/TiscotSerVices',
+        href: 'https://github.com/carcoindevs/libre-app',
       },
 
       {
