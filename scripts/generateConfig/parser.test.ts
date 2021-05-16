@@ -125,7 +125,7 @@ describe('Parser', () => {
     const outPut = [
       {
         pid: 0,
-        lpSymbol: 'LIBRE',
+        lpSymbol: 'CPL',
         lpAddresses: '0x51bd7298d99178a30eeedc9c7d60ac6415685617',
         tokenSymbol: 'SYRUP',
         tokenAddresses: '0x51bd7298d99178a30eeedc9c7d60ac6415685617',
