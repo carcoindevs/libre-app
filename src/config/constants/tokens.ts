@@ -12,7 +12,7 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://pancakeswap.finance/',
   },
-  libre: {
+  cpl: {
     symbol: 'cpl',
     address: {
       56: '0xe73da81798f22ab1a4a3391ba80b5b8497d3e0bf',
