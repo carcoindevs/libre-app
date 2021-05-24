@@ -71,7 +71,7 @@ const ClaimGift: React.FC<ClaimGiftProps> = ({ onSuccess, onDismiss }) => {
           )}
         </Text>
         <Text as="p">
-          {TranslateString(999, "To make it up to you, we'll refund you the full 4 CPL it cost to make your bunny.")}
+          {TranslateString(999, "To make it up to you, we'll refund you the full 4 CPool it cost to make your bunny.")}
         </Text>
         <Text as="p" mb="8px">
           {TranslateString(

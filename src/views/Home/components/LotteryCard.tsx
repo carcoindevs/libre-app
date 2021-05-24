@@ -75,7 +75,7 @@ const LotteryCard = () => {
     if (!allowance.toNumber()) {
       return (
         <Button width="100%" disabled={requestedApproval} onClick={handleApprove}>
-          {TranslateString(494, 'Approve CPL')}
+          {TranslateString(494, 'Approve CPool')}
         </Button>
       )
     }
@@ -96,7 +96,7 @@ const LotteryCard = () => {
         </Heading>
         <CardImage src="/images/ticket.svg" alt="cake logo" width={64} height={64} />
         <Block>
-          <Label>{TranslateString(552, 'CPL to Collect')}:</Label>
+          <Label>{TranslateString(552, 'CPool to Collect')}:</Label>
           <CakeWinnings claimAmount={claimAmount} />
         </Block>
         <Block>

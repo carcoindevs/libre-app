@@ -12,8 +12,8 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://pancakeswap.finance/',
   },
-  cpl: {
-    symbol: 'cpl',
+  cpool: {
+    symbol: 'CPool',
     address: {
       56: '0xe73da81798f22ab1a4a3391ba80b5b8497d3e0bf',
       97: '0xe73da81798f22ab1a4a3391ba80b5b8497d3e0bf',
