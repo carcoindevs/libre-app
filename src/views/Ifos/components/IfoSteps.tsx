@@ -88,7 +88,7 @@ const IfoSteps: React.FC<Props> = ({ currency }) => {
             <Button
               as={Link}
               external
-              href={`${BASE_ADD_LIQUIDITY_URL}/BNB/0xe73da81798f22ab1a4a3391ba80b5b8497d3e0bf`}
+              href={`${BASE_ADD_LIQUIDITY_URL}/BNB/0x1a23c47629290b5681ac7c84c94f45736094faed`}
               endIcon={<OpenNewIcon color="white" />}
               mt="16px"
             >

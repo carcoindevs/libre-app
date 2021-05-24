@@ -6,7 +6,7 @@ const tokens = {
   cake: {
     symbol: 'CAKE',
     address: {
-      56: '0xe73da81798f22ab1a4a3391ba80b5b8497d3e0bf',
+      56: '0x1a23c47629290b5681ac7c84c94f45736094faed',
       97: '0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe',
     },
     decimals: 18,
@@ -15,8 +15,8 @@ const tokens = {
   cpool: {
     symbol: 'CPool',
     address: {
-      56: '0xe73da81798f22ab1a4a3391ba80b5b8497d3e0bf',
-      97: '0xe73da81798f22ab1a4a3391ba80b5b8497d3e0bf',
+      56: '0x1a23c47629290b5681ac7c84c94f45736094faed',
+      97: '0x1a23c47629290b5681ac7c84c94f45736094faed',
     },
     decimals: 18,
     projectLink: 'https://pancakeswap.finance/',
