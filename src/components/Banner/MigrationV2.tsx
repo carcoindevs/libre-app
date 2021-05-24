@@ -16,7 +16,7 @@ const MigrationV2 = () => {
       }
     >
       <Box ml="48px">
-        <Text color="warning" bold>
+        <Text color="#7A180C" bold>
           CarPool Finance by CarCoin CCM.
         </Text>
         <Text color="white" mb="16px">
