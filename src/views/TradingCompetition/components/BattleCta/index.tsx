@@ -21,7 +21,7 @@ import { CompetitionProps } from '../../types'
 
 const StyledCard = styled(Card)`
   display: inline-flex;
-  background: linear-gradient(180deg, #AD974F 0%, #452a7a 100%);
+  background: linear-gradient(180deg, #A66600 0%, #452a7a 100%);
 
   svg {
     margin-bottom: 6px;
