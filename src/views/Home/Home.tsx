@@ -5,7 +5,7 @@ import useI18n from 'hooks/useI18n'
 import Page from 'components/layout/Page'
 import FarmStakingCard from 'views/Home/components/FarmStakingCard'
 import LotteryCard from 'views/Home/components/LotteryCard'
-import Image from '@tiscotservices/carpooluikit'
+import CheckmarkCircleIcon from '@tiscotservices/carpooluikit'
 import CakeStats from 'views/Home/components/CakeStats'
 import TotalValueLockedCard from 'views/Home/components/TotalValueLockedCard'
 import EarnAPRCard from 'views/Home/components/EarnAPRCard'
@@ -83,7 +83,7 @@ const Home: React.FC = () => {
   return (
     <Page>
       <Hero>
-        <Image src="/images/bunny-placeholder.svg" width={80} height={80} mb="16px" />
+        <CheckmarkCircleIcon src="/images/bunny-placeholder.svg" width={80} height={80} mb="16px" />
         <Text>{TranslateString(578, 'The future of Automotive Purchasing, Advertising and Defi.')}</Text>
       </Hero>
       <div>
