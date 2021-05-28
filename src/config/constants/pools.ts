@@ -18,8 +18,8 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 13,
-    stakingToken: tokens.cake,
-    earningToken: tokens.broobee,
+    stakingToken: tokens.cpool,
+    earningToken: tokens.bnb,
     contractAddress: {
       97: '',
       56: '0xdc8c45b7F3747Ca9CaAEB3fa5e0b5FCE9430646b',
