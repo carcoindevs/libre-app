@@ -122,7 +122,6 @@ const Home: React.FC = () => {
         </Cards>
       </div>
       <Footer>
-      </Footer>
     </Page>
   )
 }
