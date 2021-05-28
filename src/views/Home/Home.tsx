@@ -31,6 +31,27 @@ const Hero = styled.div`
   }
 `
 
+const Footer = styled.div`
+  align-items: center;
+  background-image: url('/images/Transparentbadge.png');
+  background-repeat: no-repeat;
+  background-position: top center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin: auto;
+  margin-bottom: 32px;
+  padding-top: 116px;
+  text-align: center;
+
+  ${({ theme }) => theme.mediaQueries.lg} {
+    background-image: url('/images/Transparentbadge.png');
+    background-position: center;
+    height: 180px;
+    padding-top: 0;
+  }
+`
+
 const Cards = styled(BaseLayout)`
   align-items: center;
   justify-content: stretch;
@@ -100,6 +121,8 @@ const Home: React.FC = () => {
           <TotalValueLockedCard />
         </Cards>
       </div>
+      <Footer>
+      </Footer>
     </Page>
   )
 }
