@@ -64,13 +64,13 @@ const Cards = styled(BaseLayout)`
 
   ${({ theme }) => theme.mediaQueries.sm} {
     & > div {
-      grid-column: span 7;
+      grid-column: span 6;
     }
   }
 
   ${({ theme }) => theme.mediaQueries.lg} {
     & > div {
-      grid-column: span 7;
+      grid-column: span 8;
     }
   }
 `

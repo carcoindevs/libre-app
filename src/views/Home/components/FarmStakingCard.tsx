@@ -12,7 +12,7 @@ import CakeWalletBalance from './CakeWalletBalance'
 const StyledFarmStakingCard = styled(Card)`
   background-image: url('/images/cake-bg.svg');
   background-repeat: no-repeat;
-  background-position: top right;
+  background-position: center;
   min-height: 376px;
 `
 
