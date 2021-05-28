@@ -121,7 +121,7 @@ const Home: React.FC = () => {
           <TotalValueLockedCard />
         </Cards>
       </div>
-      <Footer>
+      <Footer />
     </Page>
   )
 }
