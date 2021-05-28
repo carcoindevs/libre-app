@@ -32,7 +32,7 @@ const Hero = styled.div`
 `
 
 const Cards = styled(BaseLayout)`
-  align-items: stretch;
+  align-items: center;
   justify-content: stretch;
   margin-bottom: 32px;
 
