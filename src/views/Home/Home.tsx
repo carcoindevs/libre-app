@@ -83,7 +83,9 @@ const Home: React.FC = () => {
   return (
     <Page>
       <Hero>
-        <CheckmarkCircleIcon src="/images/bunny-placeholder.svg" width={80} height={80} mb="16px" />
+      <Heading as="h1" size="xl" mb="24px" color="primary">
+        {TranslateString(576, 'CarPool Finance')}
+      </Heading>
         <Text>{TranslateString(578, 'The future of Automotive Purchasing, Advertising and Defi.')}</Text>
       </Hero>
       <div>
