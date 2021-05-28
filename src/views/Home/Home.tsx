@@ -25,7 +25,7 @@ const Hero = styled.div`
   text-align: center;
 
   ${({ theme }) => theme.mediaQueries.lg} {
-    background-image: url('/images/pan-bg2.svg');
+    background-image: url('/images/pan-bg2.png');
     background-position: center;
     height: 165px;
     padding-top: 0;
@@ -85,7 +85,7 @@ const Home: React.FC = () => {
       <Heading as="h1" size="xl" mb="24px" color="primary">
         {TranslateString(576, ' ')}
       </Heading>
-        <Text>{TranslateString(578, 'The future of Automotive Purchasing, Advertising and Defi.')}</Text>
+        <Text>{TranslateString(578, ' ')}</Text>
       </Hero>
       <div>
         <Cards>
