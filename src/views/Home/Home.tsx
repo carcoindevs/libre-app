@@ -54,23 +54,23 @@ const Footer = styled.div`
 
 const Cards = styled(BaseLayout)`
   align-items: center;
-  justify-content: stretch;
+  justify-content: center;
   margin-bottom: 32px;
 
   & > div {
-    grid-column: span 6;
+    grid-column: span 7;
     width: 100%;
   }
 
   ${({ theme }) => theme.mediaQueries.sm} {
     & > div {
-      grid-column: span 8;
+      grid-column: span 7;
     }
   }
 
   ${({ theme }) => theme.mediaQueries.lg} {
     & > div {
-      grid-column: span 6;
+      grid-column: span 7;
     }
   }
 `
