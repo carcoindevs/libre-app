@@ -58,7 +58,7 @@ const Syrup: React.FC = () => {
             <Heading as="h1" size="xxl" color="primary" mb="24px">
               {TranslateString(999, 'Gasoline Pools')}
             </Heading>
-            <Heading size="md" color="text">
+            <Heading size="md" color="secondary">
               {TranslateString(999, 'Simply stake tokens to earn.')}
             </Heading>
             <Heading size="md" color="text">
