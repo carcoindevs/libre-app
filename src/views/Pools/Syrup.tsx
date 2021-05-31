@@ -55,8 +55,8 @@ const Syrup: React.FC = () => {
       <PageHeader>
         <Flex justifyContent="space-between">
           <Flex flexDirection="column" mr={['8px', 0]}>
-            <Heading as="h1" size="xxl" color="secondary" mb="24px">
-              {TranslateString(999, 'Syrup Pools')}
+            <Heading as="h1" size="xxl" color="primary" mb="24px">
+              {TranslateString(999, 'Gasoline Pools')}
             </Heading>
             <Heading size="md" color="text">
               {TranslateString(999, 'Simply stake tokens to earn.')}
