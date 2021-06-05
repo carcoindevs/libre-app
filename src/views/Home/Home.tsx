@@ -121,7 +121,7 @@ const Home: React.FC = () => {
           <TotalValueLockedCard />
         </Cards>
       </div>
-      <Footer href="https://carcoinmarket.io/" />
+      <Footer href="https://carcoinmarket.com/">{TranslateString(610, 'CarCoin')}</Footer>
     </Page>
   )
 }
